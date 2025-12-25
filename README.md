@@ -1,8 +1,8 @@
 # 🎧 Spotify Wrapped
 
 Project ini akan menampilkan data untuk:
-- 🎵 **Top 10 lagu yang paling sering didengarkan**
-- 🎤 **Top 10 artis favorit pengguna**
+- 🎵 **Top 10 lagu yang paling sering kamu dengar**
+- 🎤 **Top 10 artis favoritmu**
 
 Berdasarkan histori pemutaran **1 tahun terakhir**.
 
@@ -74,14 +74,7 @@ python spotify_wrapped.py
 
 ## 📊 Contoh Output
 
-```text
-🎧 TOP 10 TRACKS
-1. Song Title - Artist Name
-2. Song Title - Artist Name
-...
+| Top 10 Tracks | Top 10 Artists |
+| :---: | :---: |
+| <img src="https://i.ibb.co.com/3GzVQk6/top10tracks.png" width="400"> | <img src="https://i.ibb.co.com/39cp0dCc/top10artists.png" width="400"> |
 
-🎤 TOP 10 ARTISTS
-1. Artist Name
-2. Artist Name
-...
-```
